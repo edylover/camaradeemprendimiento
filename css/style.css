@@ -20,8 +20,11 @@ hi,h2,h3,h4,h5,h6 {
 	line-height:1.1em;
 }
 
+
+	
+
 p {
-	color:#8a8d94;
+	color:#214082;
 }
 a {
     text-decoration:none;
@@ -34,7 +37,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color:#36CBD4;	
+  color:#214082;	
 }
 
 hr {
@@ -65,7 +68,7 @@ a.navbar-brand span {
 .navbar-fixed-top {
   top: 0;
   border-width: 0 0 0;
-  background-color:#0db4be;
+  background-color:#214082;
 }
 .nav-tabs {
   border-bottom:0; 
@@ -502,10 +505,10 @@ footer {
 	text-align:center;
 	margin-top: 40px;
 	margin-bottom: 40px;
-	color: #0db4be;	
+	color: #214082;	
 }
 .f-about a h1 span {
-	color: #0db4be;	
+	color: #214082;	
 }
 .f-about p {
   font-size: 14px;
@@ -527,7 +530,7 @@ footer {
 }
 
 .l-posts li a:hover  {
-  color: #0db4be;
+  color: #214082;
 }
 
 .f-contact p {
@@ -546,11 +549,11 @@ footer {
 }
 
 .f-contact a:hover p{
-  color: #0db4be;
+  color: #214082;
 }
 .last-div {
 	margin-top:40px;
-    background: #0db4be;
+    background: #214082;
     padding: 20px 0;
     position: relative;
 }
